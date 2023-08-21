@@ -43,4 +43,4 @@ This way the default output would be Encrypted_my_file.exe and the encryption ke
 #How does it work ?
 **The stub:** read data from it self's resource then decrypt the data and run in memory
 **The xor encryptor:** red data from selected file then encrypt the data and write it and the key in to stub.exe's resource
-https://github.com/tmih06/xor-crypter/blob/main/how%20it%20work.png
+![how it work](https://github.com/tmih06/xor-crypter/blob/main/how%20it%20work.png)
